@@ -1,0 +1,5 @@
+{
+  "name": "VisiPLM - Formulation Agro",
+  "description": "Un clone simplifié de beCPG pour la formulation de recettes agroalimentaires, incluant calculs nutritionnels, coûts de revient et gestion des allergènes assistée par IA.",
+  "requestFramePermissions": []
+}
