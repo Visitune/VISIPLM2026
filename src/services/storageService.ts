@@ -154,7 +154,7 @@ const INITIAL_RECIPES: Recipe[] = [
         laborCost: 15.00,
         targetMargin: 35,
         documents: [],
-        images: ['https://images.unsplash.com/photo-1612152605332-94bc53e5e019?auto=format&fit=crop&w=800&q=80'],
+        images: ['/images/brioche.svg'],
         organoleptic: {
             appearance: "Croûte dorée uniforme, mie jaune pâle alvéolée.",
             texture: "Moelleuse, filante, fondante en bouche.",
@@ -238,7 +238,7 @@ const INITIAL_RECIPES: Recipe[] = [
         laborCost: 12.00,
         targetMargin: 30,
         documents: [],
-        images: ['https://images.unsplash.com/photo-1499636138143-bd630f5cf38b?auto=format&fit=crop&w=800&q=80']
+        images: ['/images/cookie.svg']
     }
 ];
 
