@@ -154,7 +154,7 @@ const INITIAL_RECIPES: Recipe[] = [
         laborCost: 15.00,
         targetMargin: 35,
         documents: [],
-        images: ['/images/brioche.svg'],
+        images: ['https://www.gelsea.com/upload/brioche-1811926_960_720.jpg'],
         organoleptic: {
             appearance: "Croûte dorée uniforme, mie jaune pâle alvéolée.",
             texture: "Moelleuse, filante, fondante en bouche.",
@@ -238,7 +238,7 @@ const INITIAL_RECIPES: Recipe[] = [
         laborCost: 12.00,
         targetMargin: 30,
         documents: [],
-        images: ['/images/cookie.svg']
+        images: ['https://assets.afcdn.com/recipe/20171019/73585_w1024h768c1cx1920cy2880.jpg']
     }
 ];
 
